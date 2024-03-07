@@ -5,7 +5,7 @@
 In this analysis, I will be looking at a malware sample called “WEXTRACT.EXE .MUI,” a part of the RedLineStealer family. I will be performing static and dynamic analysis of the malware to get a better understanding of the malware’s characteristics, functionality, and potential impact on the compromised system.
 
 **VirusTotal Report:**
-<img src="https://i.imgur.com/XNyp293.png">
+<img src="https://i.imgur.com/pc3X7t2.png">
 **Hashes:**  
 - MD5: 7b6947899025e73ba2566ce8df23424a  
 - SHA-1: ab0fce8b95dc43c410bed7d67419a412bbb27b4e  
